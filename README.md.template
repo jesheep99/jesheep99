@@ -4,9 +4,9 @@
 
 <div>
 <h4>
-{{template "hourly-table" $.TodayWeather.HourlyWeathers}}
+
 <h4>
-<div/>
+
 
 ## Weather For Next {{ len .Weathers }} days
 
