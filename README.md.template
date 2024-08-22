@@ -2,15 +2,15 @@
 · Docker expert 🐳🚢
 · web deploy 👨🏻‍💻
 
-<div>
-<h4>
+<div style="width:400px">
 
-<h4>
+{{template "hourly-table" $.TodayWeather.HourlyWeathers}}
 
+<div/>
 
 ## Weather For Next {{ len .Weathers }} days
 
-<div>
+<div style="width:400px">
 
 {{template "daily-table" .Weathers}}
 
