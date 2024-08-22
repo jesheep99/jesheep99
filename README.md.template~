@@ -1,19 +1,9 @@
-## GH Action implementer
-## Docker expert
-## web deploy
 
-<div>
-<h4>
+</div>
+
 {{template "hourly-table" $.TodayWeather.HourlyWeathers}}
-<h4>
-<div/>
 
 ## Weather For Next {{ len .Weathers }} days
 
-<div>
-
 {{template "daily-table" .Weathers}}
-
-<div/>
-
 
