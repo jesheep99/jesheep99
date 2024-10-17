@@ -51,11 +51,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>8.2 -  14.5 °C</td><td>6.9 -  13.5 °C</td><td>7.1 -  15.5 °C</td>
+        <td>8.2 -  14.5 °C</td><td>7 -  13.5 °C</td><td>7.3 -  15.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>19.1 kph</td><td>11.5 kph</td><td>10.4 kph</td>
+        <td>19.1 kph</td><td>11.5 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
