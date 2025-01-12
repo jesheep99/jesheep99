@@ -20,11 +20,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11.3 °C</td><td>10.9 °C</td><td>10.7 °C</td><td>10.5 °C</td><td>10.6 °C</td><td>10.1 °C</td><td>10.2 °C</td><td>12.9 °C</td><td>16 °C</td><td>18.5 °C</td><td>20.3 °C</td><td>18.2 °C</td><td>21.3 °C</td><td>21.5 °C</td><td>20.6 °C</td><td>17.5 °C</td><td>15.8 °C</td><td>14.2 °C</td><td>14.6 °C</td><td>15.4 °C</td><td>14.6 °C</td><td>13.7 °C</td><td>13 °C</td><td>12.5 °C</td>
+        <td>11.3 °C</td><td>10.9 °C</td><td>10.7 °C</td><td>10.5 °C</td><td>10.6 °C</td><td>10.1 °C</td><td>10.2 °C</td><td>12.9 °C</td><td>16 °C</td><td>18.5 °C</td><td>20.3 °C</td><td>21.5 °C</td><td>21.3 °C</td><td>21.5 °C</td><td>20.6 °C</td><td>17.5 °C</td><td>15.8 °C</td><td>14.2 °C</td><td>14.6 °C</td><td>15.4 °C</td><td>14.6 °C</td><td>13.7 °C</td><td>13 °C</td><td>12.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.6 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>4 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>16.6 kph</td><td>18 kph</td><td>15.1 kph</td><td>17.6 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>20.2 kph</td><td>23.8 kph</td><td>25.2 kph</td>
+        <td>3.6 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>4 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>16.6 kph</td><td>18 kph</td><td>15.1 kph</td><td>17.6 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>20.2 kph</td><td>23.8 kph</td><td>25.2 kph</td>
     </tr>
 </table>
 
