@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.4 °C</td><td>9.2 °C</td><td>9.1 °C</td><td>8.8 °C</td><td>8.4 °C</td><td>8.2 °C</td><td>8 °C</td><td>10.1 °C</td><td>12.8 °C</td><td>15.1 °C</td><td>16.9 °C</td><td>18.4 °C</td><td>19.2 °C</td><td>19.6 °C</td><td>19.9 °C</td><td>19.8 °C</td><td>18.4 °C</td><td>17.3 °C</td><td>14.8 °C</td><td>13 °C</td><td>12.9 °C</td><td>12.8 °C</td><td>12.7 °C</td><td>12.7 °C</td>
+        <td>9.4 °C</td><td>9.2 °C</td><td>9.1 °C</td><td>8.8 °C</td><td>8.4 °C</td><td>8.2 °C</td><td>8 °C</td><td>10.1 °C</td><td>6.3 °C</td><td>15.1 °C</td><td>16.9 °C</td><td>18.4 °C</td><td>19.2 °C</td><td>19.6 °C</td><td>19.9 °C</td><td>19.8 °C</td><td>18.4 °C</td><td>17.3 °C</td><td>14.8 °C</td><td>13 °C</td><td>12.9 °C</td><td>12.8 °C</td><td>12.7 °C</td><td>12.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -43,19 +43,19 @@
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>8 -  19.9 °C</td><td>10.5 -  16.8 °C</td><td>9.4 -  16.8 °C</td>
+        <td>7.7 -  20.1 °C</td><td>10.7 -  16.7 °C</td><td>9.3 -  16.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.3 kph</td><td>13 kph</td><td>12.6 kph</td>
+        <td>15.5 kph</td><td>12.2 kph</td><td>12.6 kph</td>
     </tr>
 </table>
 
