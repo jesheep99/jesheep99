@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.1 °C</td><td>7.2 °C</td><td>7.1 °C</td><td>6.6 °C</td><td>6.5 °C</td><td>6.5 °C</td><td>6.8 °C</td><td>6.8 °C</td><td>6.9 °C</td><td>6.8 °C</td><td>7.8 °C</td><td>7.9 °C</td><td>8 °C</td><td>8 °C</td><td>8.2 °C</td><td>8.3 °C</td><td>8.1 °C</td><td>6.8 °C</td><td>5.8 °C</td><td>5.5 °C</td><td>5 °C</td><td>4.6 °C</td><td>4.1 °C</td><td>3.4 °C</td>
+        <td>7.1 °C</td><td>7.4 °C</td><td>7.1 °C</td><td>6.6 °C</td><td>6.5 °C</td><td>6.5 °C</td><td>6.8 °C</td><td>6.8 °C</td><td>6.9 °C</td><td>6.8 °C</td><td>7.8 °C</td><td>7.9 °C</td><td>8 °C</td><td>8 °C</td><td>8.2 °C</td><td>8.3 °C</td><td>8.1 °C</td><td>6.8 °C</td><td>5.8 °C</td><td>5.5 °C</td><td>5 °C</td><td>4.6 °C</td><td>4.1 °C</td><td>3.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
