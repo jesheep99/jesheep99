@@ -20,11 +20,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>5.7 °C</td><td>5.4 °C</td><td>5.2 °C</td><td>5.2 °C</td><td>5.1 °C</td><td>4.9 °C</td><td>5.1 °C</td><td>5 °C</td><td>4.9 °C</td><td>5.3 °C</td><td>7.2 °C</td><td>8.1 °C</td><td>8.4 °C</td><td>8.6 °C</td><td>8.6 °C</td><td>8.6 °C</td><td>8.3 °C</td><td>7 °C</td><td>5.5 °C</td><td>5.1 °C</td><td>4.8 °C</td><td>4.6 °C</td><td>4.5 °C</td><td>4.3 °C</td>
+        <td>5.7 °C</td><td>5.4 °C</td><td>5.2 °C</td><td>5.2 °C</td><td>5.1 °C</td><td>4.9 °C</td><td>5.1 °C</td><td>5 °C</td><td>4.9 °C</td><td>5.3 °C</td><td>7.2 °C</td><td>8 °C</td><td>8.4 °C</td><td>8.5 °C</td><td>8.7 °C</td><td>8.6 °C</td><td>8.3 °C</td><td>7 °C</td><td>5.4 °C</td><td>5 °C</td><td>4.8 °C</td><td>1.3 °C</td><td>4.4 °C</td><td>4.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.3 kph</td><td>13 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>14 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>11.5 kph</td><td>13 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>4 kph</td>
+        <td>13.3 kph</td><td>13 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>14 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>13 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>8.6 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>4 kph</td><td>4.7 kph</td><td>4 kph</td>
     </tr>
 </table>
 
@@ -51,11 +51,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>4.3 -  8.6 °C</td><td>2.6 -  10.8 °C</td><td>5.7 -  12.3 °C</td>
+        <td>4.2 -  8.7 °C</td><td>2.6 -  10.8 °C</td><td>5.9 -  11.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>10.1 kph</td><td>12.6 kph</td>
+        <td>14 kph</td><td>9 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
