@@ -20,11 +20,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>5 °C</td><td>4.4 °C</td><td>4.1 °C</td><td>3.7 °C</td><td>3.2 °C</td><td>2.7 °C</td><td>2.4 °C</td><td>2.2 °C</td><td>3.3 °C</td><td>5.9 °C</td><td>8.1 °C</td><td>9.8 °C</td><td>10.8 °C</td><td>11 °C</td><td>10.7 °C</td><td>10.9 °C</td><td>10.6 °C</td><td>9.7 °C</td><td>7.1 °C</td><td>6 °C</td><td>6.1 °C</td><td>6.1 °C</td><td>5.9 °C</td><td>5.6 °C</td>
+        <td>4.9 °C</td><td>2.2 °C</td><td>4.1 °C</td><td>3.7 °C</td><td>3.2 °C</td><td>2.8 °C</td><td>2.4 °C</td><td>2.3 °C</td><td>3.4 °C</td><td>5.7 °C</td><td>7.9 °C</td><td>9.7 °C</td><td>10.9 °C</td><td>11.4 °C</td><td>11 °C</td><td>10.9 °C</td><td>10.4 °C</td><td>9.5 °C</td><td>7 °C</td><td>5.9 °C</td><td>6 °C</td><td>6 °C</td><td>5.8 °C</td><td>5.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>1.8 kph</td><td>1.1 kph</td><td>1.1 kph</td><td>0.7 kph</td><td>2.2 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>5 kph</td><td>4 kph</td><td>2.9 kph</td><td>1.1 kph</td>
+        <td>9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>5 kph</td><td>4.3 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>1.1 kph</td><td>1.4 kph</td><td>1.1 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>6.1 kph</td><td>8.6 kph</td><td>9 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>1.1 kph</td>
     </tr>
 </table>
 
@@ -51,11 +51,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>2.2 -  11 °C</td><td>2.9 -  12.9 °C</td><td>4.3 -  14.2 °C</td>
+        <td>2.3 -  11.4 °C</td><td>2.8 -  13 °C</td><td>4.2 -  14.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.6 kph</td><td>7.6 kph</td><td>9.7 kph</td>
+        <td>9 kph</td><td>7.2 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
