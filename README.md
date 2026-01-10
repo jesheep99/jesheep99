@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11.9 °C</td><td>13.1 °C</td><td>11.7 °C</td><td>11.6 °C</td><td>11.4 °C</td><td>11.3 °C</td><td>11.4 °C</td><td>13.3 °C</td><td>14.8 °C</td><td>16.5 °C</td><td>18 °C</td><td>18.6 °C</td><td>19.3 °C</td><td>19.4 °C</td><td>19.3 °C</td><td>19.3 °C</td><td>19.7 °C</td><td>19.4 °C</td><td>19.1 °C</td><td>18 °C</td><td>16.7 °C</td><td>15.4 °C</td><td>15 °C</td><td>14.5 °C</td>
+        <td>11.9 °C</td><td>13.3 °C</td><td>11.7 °C</td><td>11.6 °C</td><td>11.4 °C</td><td>11.3 °C</td><td>11.4 °C</td><td>13.3 °C</td><td>14.8 °C</td><td>16.5 °C</td><td>18 °C</td><td>18.6 °C</td><td>19.3 °C</td><td>19.4 °C</td><td>19.3 °C</td><td>19.3 °C</td><td>19.7 °C</td><td>19.4 °C</td><td>19.1 °C</td><td>18 °C</td><td>16.7 °C</td><td>15.4 °C</td><td>15 °C</td><td>14.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
