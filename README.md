@@ -20,11 +20,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>8.6 °C</td><td>8.6 °C</td><td>8.7 °C</td><td>8.7 °C</td><td>8.7 °C</td><td>8.6 °C</td><td>8.7 °C</td><td>8.7 °C</td><td>8.7 °C</td><td>8.9 °C</td><td>8.9 °C</td><td>9.1 °C</td><td>9 °C</td><td>9.1 °C</td><td>9.2 °C</td><td>9.2 °C</td><td>9.2 °C</td><td>9.3 °C</td><td>9.5 °C</td><td>10.2 °C</td><td>10.3 °C</td><td>10.2 °C</td><td>10.6 °C</td><td>10.1 °C</td>
+        <td>8.6 °C</td><td>8.6 °C</td><td>8.7 °C</td><td>8.7 °C</td><td>8.7 °C</td><td>8.6 °C</td><td>8.7 °C</td><td>8.7 °C</td><td>8.7 °C</td><td>8.9 °C</td><td>8.9 °C</td><td>9.1 °C</td><td>9 °C</td><td>9.1 °C</td><td>9.2 °C</td><td>9.2 °C</td><td>9.2 °C</td><td>9.3 °C</td><td>9.6 °C</td><td>9.5 °C</td><td>9.9 °C</td><td>10 °C</td><td>10.4 °C</td><td>8.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>17.3 kph</td><td>18.4 kph</td><td>18 kph</td><td>18.7 kph</td><td>16.9 kph</td><td>19.8 kph</td><td>19.1 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>21.6 kph</td><td>21.2 kph</td><td>22 kph</td><td>23 kph</td><td>22 kph</td><td>19.4 kph</td><td>19.1 kph</td><td>23 kph</td><td>21.2 kph</td><td>21.6 kph</td><td>18.4 kph</td><td>18.4 kph</td><td>19.1 kph</td><td>15.1 kph</td><td>8.3 kph</td>
+        <td>17.3 kph</td><td>18.4 kph</td><td>18 kph</td><td>18.7 kph</td><td>16.9 kph</td><td>19.8 kph</td><td>19.1 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>21.6 kph</td><td>21.2 kph</td><td>22 kph</td><td>23 kph</td><td>22 kph</td><td>19.4 kph</td><td>19.1 kph</td><td>23 kph</td><td>21.6 kph</td><td>21.2 kph</td><td>19.1 kph</td><td>18.7 kph</td><td>18 kph</td><td>18.7 kph</td><td>18.7 kph</td>
     </tr>
 </table>
 
@@ -51,11 +51,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>8.6 -  9.5 °C</td><td>5.9 -  8.2 °C</td><td>3.6 -  7.3 °C</td>
+        <td>8.6 -  9.6 °C</td><td>6 -  8.1 °C</td><td>3.8 -  7.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>23 kph</td><td>22 kph</td><td>19.4 kph</td>
+        <td>23 kph</td><td>20.9 kph</td><td>17.6 kph</td>
     </tr>
 </table>
 
