@@ -1,6 +1,7 @@
 - GH Action implementer 🚀
 - Docker expert 🐳🚢
 - web deploy 👨🏻‍💻
+- technical writer
 
 <div style="width:400px">
 
