@@ -21,11 +21,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.1 °C</td><td>6.7 °C</td><td>6.4 °C</td><td>6.7 °C</td><td>6.6 °C</td><td>6.2 °C</td><td>5.4 °C</td><td>5.1 °C</td><td>4.9 °C</td><td>5.9 °C</td><td>7.8 °C</td><td>9.8 °C</td><td>11.1 °C</td><td>10.9 °C</td><td>11 °C</td><td>11 °C</td><td>10.5 °C</td><td>10.4 °C</td><td>10.2 °C</td><td>9.7 °C</td><td>9 °C</td><td>9.1 °C</td><td>8.5 °C</td><td>8.6 °C</td>
+        <td>7.1 °C</td><td>6.7 °C</td><td>6.4 °C</td><td>6.7 °C</td><td>6.6 °C</td><td>6.2 °C</td><td>5.4 °C</td><td>5.1 °C</td><td>4.9 °C</td><td>5.9 °C</td><td>7.8 °C</td><td>9.8 °C</td><td>10.9 °C</td><td>10.7 °C</td><td>10.7 °C</td><td>11 °C</td><td>10.6 °C</td><td>10.3 °C</td><td>10.1 °C</td><td>9.6 °C</td><td>9.1 °C</td><td>9 °C</td><td>8.3 °C</td><td>8.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.6 kph</td><td>3.6 kph</td><td>0.7 kph</td><td>0.7 kph</td><td>1.8 kph</td><td>4 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>2.9 kph</td><td>1.8 kph</td><td>7.6 kph</td><td>10.8 kph</td><td>13.7 kph</td><td>13 kph</td><td>11.2 kph</td><td>8.6 kph</td><td>6.5 kph</td><td>2.5 kph</td><td>1.4 kph</td><td>2.9 kph</td><td>4.3 kph</td>
+        <td>3.6 kph</td><td>3.6 kph</td><td>0.7 kph</td><td>0.7 kph</td><td>1.8 kph</td><td>4 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>7.9 kph</td><td>10.4 kph</td><td>13.3 kph</td><td>13 kph</td><td>10.8 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>2.9 kph</td><td>1.4 kph</td><td>2.9 kph</td><td>2.9 kph</td>
     </tr>
 </table>
 
@@ -52,11 +52,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>4.9 -  11.1 °C</td><td>6.4 -  15.5 °C</td><td>9.2 -  15 °C</td>
+        <td>4.9 -  11 °C</td><td>6.6 -  15.9 °C</td><td>9.6 -  15 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>12.6 kph</td><td>24.8 kph</td>
+        <td>13.3 kph</td><td>12.6 kph</td><td>24.8 kph</td>
     </tr>
 </table>
 
